@@ -2,4 +2,4 @@
 
 twitter post 
 
-a practice to clone twitter, like and comment buuton
+a practice to clone twitter, like and comment button
